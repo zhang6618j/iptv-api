@@ -1,371 +1,80 @@
 #EXTM3U x-tvg-url="http://192.168.8.229:1888/index.php"
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV1.png",CCTV1
-http://192.168.8.5:1999/udp/239.10.0.151:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV1.png",CCTV1
-http://192.168.8.5:1999/udp/239.11.0.65:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV2.png",CCTV2
-http://192.168.8.5:1999/udp/239.11.0.108:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV3.png",CCTV3
-http://192.168.8.5:1999/udp/239.11.0.101:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV4.png",CCTV4
-http://192.168.8.5:1999/udp/239.11.0.109:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV5.png",CCTV5
-http://192.168.8.5:1999/udp/239.11.0.100:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV5+
-http://192.168.8.5:1999/udp/239.11.0.241:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV6.png",CCTV6
-http://192.168.8.5:1999/udp/239.11.0.102:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV7.png",CCTV7
-http://192.168.8.5:1999/udp/239.11.0.110:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV8.png",CCTV8
-http://192.168.8.5:1999/udp/239.11.0.103:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV9.png",CCTV9
-http://192.168.8.5:1999/udp/239.11.0.111:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV10.png",CCTV10
-http://192.168.8.5:1999/udp/239.11.0.112:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV11.png",CCTV11
-http://192.168.8.5:1999/udp/239.11.0.22:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV12.png",CCTV12
-http://192.168.8.5:1999/udp/239.11.0.113:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV13.png",CCTV13
-http://192.168.8.5:1999/udp/239.11.0.24:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV14.png",CCTV14
-http://192.168.8.5:1999/udp/239.11.0.114:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV15.png",CCTV15
-http://192.168.8.5:1999/udp/239.11.0.26:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV16.png",CCTV16
-http://192.168.8.5:1999/udp/239.11.0.67:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV17.png",CCTV17
-http://192.168.8.5:1999/udp/239.11.0.107:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CETV1
-http://192.168.8.5:1999/udp/239.11.0.139:5140$!
-#EXTINF:-1 group-title="央视频道" tvg-logo="",CETV2
-http://192.168.8.5:1999/udp/239.11.0.246:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV4K.png",CCTV4K
-http://192.168.8.5:1999/udp/239.11.0.62:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV4K.png",CCTV4K
-http://192.168.8.5:1999/udp/239.11.0.61:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",CCTV16-4K
-http://192.168.8.5:1999/udp/239.10.0.187:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV8K.png",CCTV8K
-http://192.168.8.5:1999/udp/239.10.0.134:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",北京卫视4K
-http://192.168.8.5:1999/udp/239.10.0.91:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",北京卫视4K
-http://192.168.8.5:1999/udp/239.10.0.92:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",深圳卫视4K
-http://192.168.8.5:1999/udp/239.10.0.93:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",广东卫视4K
-http://192.168.8.5:1999/udp/239.10.0.94:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",四川卫视4K
-http://192.168.8.5:1999/udp/239.11.0.43:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",四川卫视4K
-http://192.168.8.5:1999/udp/239.11.0.86:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",湖南卫视4K
-http://192.168.8.5:1999/udp/239.11.0.87:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",江苏卫视4K
-http://192.168.8.5:1999/udp/239.11.0.88:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",浙江卫视4K
-http://192.168.8.5:1999/udp/239.11.0.89:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",东方卫视4K
-http://192.168.8.5:1999/udp/239.11.0.90:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",山东卫视4K
-http://192.168.8.5:1999/udp/239.11.0.91:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://iptv-search.com/static/channellogo/img/ah4k.png",爱上4K
-http://192.168.8.5:1999/udp/239.11.0.120:5140$!
-#EXTINF:-1 group-title="4K频道" tvg-logo="",咪咕4K
-http://192.168.8.5:1999/udp/239.10.0.240:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",凤凰中文
-http://192.168.8.5:1999/udp/239.11.0.153:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",凤凰资讯
-http://192.168.8.5:1999/udp/239.11.0.154:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Beijing.png",北京卫视
-http://192.168.8.5:1999/udp/239.11.0.121:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Hebei.png",河北卫视
-http://192.168.8.5:1999/udp/239.11.0.31:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Dongfang.png",东方卫视
-http://192.168.8.5:1999/udp/239.11.0.68:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Hunan.png",湖南卫视
-http://192.168.8.5:1999/udp/239.11.0.119:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Heilongjiang.png",黑龙江卫视
-http://192.168.8.5:1999/udp/239.11.0.36:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Jilin.png",吉林卫视
-http://192.168.8.5:1999/udp/239.11.0.35:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Jiangxi.png",江西卫视
-http://192.168.8.5:1999/udp/239.11.0.42:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Dongnan.png",东南卫视
-http://192.168.8.5:1999/udp/239.11.0.41:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Henan.png",河南卫视
-http://192.168.8.5:1999/udp/239.11.0.44:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Zhejiang.png",浙江卫视
-http://192.168.8.5:1999/udp/239.11.0.70:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Shenzhen.png",深圳卫视
-http://192.168.8.5:1999/udp/239.11.0.71:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Shandong.png",山东卫视
-http://192.168.8.5:1999/udp/239.11.0.73:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Hubei.png",湖北卫视
-http://192.168.8.5:1999/udp/239.11.0.74:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Jiangsu.png",江苏卫视
-http://192.168.8.5:1999/udp/239.11.0.76:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Sichuan.png",四川卫视
-http://192.168.8.5:1999/udp/239.11.0.78:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Guangdong.png",广东卫视
-http://192.168.8.5:1999/udp/239.11.0.115:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Guangxi.png",广西卫视
-http://192.168.8.5:1999/udp/239.11.0.48:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Guizhou.png",贵州卫视
-http://192.168.8.5:1999/udp/239.11.0.51:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Gansu.png",甘肃卫视
-http://192.168.8.5:1999/udp/239.11.0.55:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Chongqing.png",重庆卫视
-http://192.168.8.5:1999/udp/239.11.0.116:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Anhui.png",安徽卫视
-http://192.168.8.5:1999/udp/239.11.0.117:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Liaoning.png",辽宁卫视
-http://192.168.8.5:1999/udp/239.11.0.118:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Tianjin.png",天津卫视
-http://192.168.8.5:1999/udp/239.11.0.123:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Shanxi_.png",山西卫视
-http://192.168.8.5:1999/udp/239.11.0.32:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Yunnan.png",云南卫视
-http://192.168.8.5:1999/udp/239.11.0.52:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Xizang.png",西藏卫视
-http://192.168.8.5:1999/udp/239.11.0.53:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Shanxi.png",陕西卫视
-http://192.168.8.5:1999/udp/239.11.0.54:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Qinghai.png",青海卫视
-http://192.168.8.5:1999/udp/239.11.0.56:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Ningxia.png",宁夏卫视
-http://192.168.8.5:1999/udp/239.11.0.57:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Xinjiang.png",新疆卫视
-http://192.168.8.5:1999/udp/239.11.0.58:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Neimeng.png",内蒙古卫视
-http://192.168.8.5:1999/udp/239.11.0.33:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Bingtuan.png",兵团卫视
-http://192.168.8.5:1999/udp/239.11.0.204:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Yanbian.png",延边卫视
-http://192.168.8.5:1999/udp/239.11.0.206:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Hainan.png",海南卫视
-http://192.168.8.5:1999/udp/239.11.0.193:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Anduo.png",安多卫视
-http://192.168.8.5:1999/udp/239.11.0.124:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="",山东教育
-http://192.168.8.5:1999/udp/239.11.0.140:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Xiamen.png",厦门卫视
-http://192.168.8.5:1999/udp/239.11.0.83:5140$!
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Sansha.png",三沙卫视
-http://192.168.8.5:1999/udp/239.11.0.84:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",四川文化
-http://192.168.8.5:1999/udp/239.11.0.3:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",四川乡村
-http://192.168.8.5:1999/udp/239.11.0.4:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",四川经济
-http://192.168.8.5:1999/udp/239.11.0.2:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",四川新闻
-http://192.168.8.5:1999/udp/239.11.0.5:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",四川影视
-http://192.168.8.5:1999/udp/239.11.0.77:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",四川妇女
-http://192.168.8.5:1999/udp/239.11.0.8:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",四川科教
-http://192.168.8.5:1999/udp/239.11.0.194:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Kangba.png",康巴卫视
-http://192.168.8.5:1999/udp/239.11.0.10:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Sichuan8.png",峨眉电影
-http://192.168.8.5:1999/udp/239.11.0.11:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",达州新闻
-http://192.168.8.5:1999/udp/239.10.0.54:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",达州文化生活
-http://192.168.8.5:1999/udp/239.10.0.55:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",成都综合
-http://192.168.8.5:1999/udp/239.10.0.11:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",成都经济
-http://192.168.8.5:1999/udp/239.10.0.12:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",成都生活
-http://192.168.8.5:1999/udp/239.10.0.13:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",成都影视
-http://192.168.8.5:1999/udp/239.10.0.14:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",成都公共
-http://192.168.8.5:1999/udp/239.10.0.15:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",成都少儿
-http://192.168.8.5:1999/udp/239.10.0.16:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",成都购物
-http://192.168.8.5:1999/udp/239.10.0.33:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",泸州新闻
-http://192.168.8.5:1999/udp/239.10.0.46:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",泸州科教
-http://192.168.8.5:1999/udp/239.10.0.48:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",阿坝汉语
-http://192.168.8.5:1999/udp/239.10.0.50:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",阿坝藏语
-http://192.168.8.5:1999/udp/239.10.0.51:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",巴中综合
-http://192.168.8.5:1999/udp/239.10.0.52:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",巴中文旅
-http://192.168.8.5:1999/udp/239.10.0.53:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",德阳新闻综合
-http://192.168.8.5:1999/udp/239.10.0.56:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",德阳文旅科教
-http://192.168.8.5:1999/udp/239.10.0.57:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",广安新闻
-http://192.168.8.5:1999/udp/239.10.0.58:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",广安公共
-http://192.168.8.5:1999/udp/239.10.0.59:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",广元综合
-http://192.168.8.5:1999/udp/239.10.0.60:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",广元文化
-http://192.168.8.5:1999/udp/239.10.0.61:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",乐山新闻
-http://192.168.8.5:1999/udp/239.10.0.62:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",乐山文旅
-http://192.168.8.5:1999/udp/239.10.0.63:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",凉山新闻综合
-http://192.168.8.5:1999/udp/239.10.0.64:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",凉山彝语综合
-http://192.168.8.5:1999/udp/239.10.0.65:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",眉山综合
-http://192.168.8.5:1999/udp/239.10.0.66:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",眉山公共
-http://192.168.8.5:1999/udp/239.10.0.67:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",南充综合
-http://192.168.8.5:1999/udp/239.10.0.68:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",南充科教
-http://192.168.8.5:1999/udp/239.10.0.70:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",内江综合
-http://192.168.8.5:1999/udp/239.10.0.71:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",内江科教
-http://192.168.8.5:1999/udp/239.10.0.73:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",攀枝花新闻
-http://192.168.8.5:1999/udp/239.10.0.74:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",遂宁综合
-http://192.168.8.5:1999/udp/239.10.0.76:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",遂宁文旅
-http://192.168.8.5:1999/udp/239.10.0.77:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",雅安新闻
-http://192.168.8.5:1999/udp/239.10.0.78:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",雅安公共
-http://192.168.8.5:1999/udp/239.10.0.79:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",宜宾新闻
-http://192.168.8.5:1999/udp/239.10.0.80:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",宜宾公共
-http://192.168.8.5:1999/udp/239.10.0.81:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",资阳新闻
-http://192.168.8.5:1999/udp/239.10.0.82:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",自贡综合
-http://192.168.8.5:1999/udp/239.10.0.83:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",自贡文化
-http://192.168.8.5:1999/udp/239.10.0.84:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",绵阳新闻
-http://192.168.8.5:1999/udp/239.10.0.96:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",绵阳科技
-http://192.168.8.5:1999/udp/239.10.0.98:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",康定综合
-http://192.168.8.5:1999/udp/239.10.0.30:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",甘孜综合
-http://192.168.8.5:1999/udp/239.10.0.32:5140$!
-#EXTINF:-1 group-title="川内频道" tvg-logo="",稻城电视台
-http://192.168.8.5:1999/udp/239.10.0.29:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CHC2.png",CHC家庭影院
-http://192.168.8.5:1999/udp/239.10.0.86:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://iptv-search.com/static/channellogo/img/CHC3.png",CHC动作电影
-http://192.168.8.5:1999/udp/239.10.0.87:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",CHC影迷电影
-http://192.168.8.5:1999/udp/239.10.0.88:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Startv.png",星空卫视
-http://192.168.8.5:1999/udp/239.11.0.156:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",Channel[V]
-http://192.168.8.5:1999/udp/239.11.0.155:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://iptv-search.com/static/channellogo/img/Hunan9.png",金鹰纪实
-http://192.168.8.5:1999/udp/239.10.0.193:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://iptv-search.com/static/channellogo/img/xfpy.png",先锋乒羽
-http://192.168.8.5:1999/udp/239.10.0.90:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://iptv-search.com/static/channellogo/img/zgjt.png",中国交通
-http://192.168.8.5:1999/udp/239.10.0.143:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://iptv-search.com/static/channellogo/img/cftx.png",财富天下
-http://192.168.8.5:1999/udp/239.10.0.182:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://iptv-search.com/static/channellogo/img/jtlc.png",家庭理财
-http://192.168.8.5:1999/udp/239.10.0.168:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",睛彩竞技
-http://192.168.8.5:1999/udp/239.10.0.224:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",睛彩篮球
-http://192.168.8.5:1999/udp/239.11.0.122:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV热播剧场
-http://192.168.8.5:1999/udp/239.10.0.121:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV经典电影
-http://192.168.8.5:1999/udp/239.10.0.122:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV谍战剧场
-http://192.168.8.5:1999/udp/239.10.0.123:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV城市剧场
-http://192.168.8.5:1999/udp/239.10.0.124:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV军旅剧场
-http://192.168.8.5:1999/udp/239.10.0.125:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV古装剧场
-http://192.168.8.5:1999/udp/239.10.0.126:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV家庭影院
-http://192.168.8.5:1999/udp/239.10.0.127:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV喜剧影院
-http://192.168.8.5:1999/udp/239.10.0.132:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV武侠剧场
-http://192.168.8.5:1999/udp/239.10.0.133:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV戏曲
-http://192.168.8.5:1999/udp/239.10.0.150:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV光影
-http://192.168.8.5:1999/udp/239.10.0.153:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV高网
-http://192.168.8.5:1999/udp/239.10.0.164:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV国学
-http://192.168.8.5:1999/udp/239.10.0.186:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV地理
-http://192.168.8.5:1999/udp/239.10.0.190:5140$!
-#EXTINF:-1 group-title="数字频道" tvg-logo="",IPTV体育
-http://192.168.8.5:1999/udp/239.11.0.234:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频1
-http://192.168.8.5:1999/udp/239.10.0.232:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频2
-http://192.168.8.5:1999/udp/239.10.0.233:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频3
-http://192.168.8.5:1999/udp/239.10.0.234:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频4
-http://192.168.8.5:1999/udp/239.10.0.235:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频5
-http://192.168.8.5:1999/udp/239.10.0.236:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频6
-http://192.168.8.5:1999/udp/239.10.0.237:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频7
-http://192.168.8.5:1999/udp/239.10.0.238:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频8
-http://192.168.8.5:1999/udp/239.10.0.17:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频9
-http://192.168.8.5:1999/udp/239.10.0.18:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频10
-http://192.168.8.5:1999/udp/239.10.0.20:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频11
-http://192.168.8.5:1999/udp/239.10.0.21:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频12
-http://192.168.8.5:1999/udp/239.10.0.22:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频13
-http://192.168.8.5:1999/udp/239.10.0.23:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频14
-http://192.168.8.5:1999/udp/239.10.0.24:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频15
-http://192.168.8.5:1999/udp/239.10.0.25:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频16
-http://192.168.8.5:1999/udp/239.10.0.26:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频17
-http://192.168.8.5:1999/udp/239.10.0.27:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频18
-http://192.168.8.5:1999/udp/239.10.0.28:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频19
-http://192.168.8.5:1999/udp/239.10.0.19:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频20
-http://192.168.8.5:1999/udp/239.10.0.40:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频21
-http://192.168.8.5:1999/udp/239.10.0.41:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频22
-http://192.168.8.5:1999/udp/239.10.0.42:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频23
-http://192.168.8.5:1999/udp/239.10.0.43:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频24
-http://192.168.8.5:1999/udp/239.10.0.44:5140$!
-#EXTINF:-1 group-title="咪咕频道" tvg-logo="",咪咕视频25
-http://192.168.8.5:1999/udp/239.10.0.45:5140$!
+📺央视频道,#genre#
+CCTV-1
+CCTV-2
+CCTV-3
+CCTV-4
+CCTV-5
+CCTV-5+
+CCTV-6
+CCTV-7
+CCTV-8
+CCTV-9
+CCTV-10
+CCTV-11
+CCTV-12
+CCTV-13
+CCTV-14
+CCTV-15
+CCTV-16
+CCTV-17
+CETV-1
+CETV-2
+CETV-3
+CETV-4
+
+📡卫视频道,#genre#
+广东卫视
+香港卫视
+浙江卫视
+湖南卫视
+北京卫视
+湖北卫视
+黑龙江卫视
+安徽卫视
+重庆卫视
+东方卫视
+东南卫视
+甘肃卫视
+广西卫视
+贵州卫视
+海南卫视
+河北卫视
+河南卫视
+吉林卫视
+江苏卫视
+江西卫视
+辽宁卫视
+内蒙古卫视
+宁夏卫视
+青海卫视
+山东卫视
+山西卫视
+陕西卫视
+四川卫视
+深圳卫视
+三沙卫视
+天津卫视
+西藏卫视
+新疆卫视
+云南卫视
+
+☘️广东频道,#genre#
+广东珠江
+广东体育
+广东新闻
+广东卫视
+广东民生
+大湾区卫视
+广州综合
+广州影视
+广州竞赛
+江门综合
+江门侨乡生活
+佛山综合
+深圳卫视
+汕头综合
+汕头经济
+汕头文旅
+茂名综合
+茂名公共
